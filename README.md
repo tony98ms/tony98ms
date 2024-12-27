@@ -26,15 +26,10 @@ Me considero una persona investigativa con una curva de aprendizaje muy alta. Di
 | **Server**            | ![Laravel Vapor](https://img.shields.io/badge/Laravel_Vapor-blue)   ![AWS](https://img.shields.io/badge/AWS-orange) ![Nginx](https://img.shields.io/badge/Nginx-darkgreen) ![Apache](https://img.shields.io/badge/Apache-gray)                                                |
 
 ## Proyectos Destacados
-1. **Sistema de Facturación Electrónica**:
+1. **[Sistema de Facturación Electrónica](https://smartfact.com.ec)**:
 
    - Manejo de múltiples clientes y altas transacciones por segundo.
    - Integración con bases de datos escalables.
-
-2. **Liga Master de Efootball**:
-
-   - Plataforma web con gestión de equipos, ligas y estadísticas.
-   - Diseño responsivo y dinámico para jugadores.
 
 ## Conéctate conmigo
 
